@@ -27,6 +27,5 @@
 [<img align="left" alt="Charishma Puli| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]![image](https://github.com/charishmapuli121/Charishma-Puli/assets/156693770/23587f1d-4acc-40ff-a2f0-7bcc3d43c4c1)
-: https://www.linkedin.com/in/charishma-puli-152b63211/
+[linkedin]!: https://www.linkedin.com/in/charishma-puli-152b63211/
 
