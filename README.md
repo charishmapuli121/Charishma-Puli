@@ -1,8 +1,8 @@
 <h1>Hello, I'm Charishma Puli! <br/><a <a href="https://www.linkedin.com/in/charishma-puli-152b63211/"> Digital Marketing and Analytical Professional</a>
 <h2>👩🏻‍💻  Marketing Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Navigating Boston's Ride-Share Market In-Depth Insights into Lyft and Uber </b>
+  - [Praciting in Python](https://github.com/charishmapuli121/Charishma-Puli/blob/main/Navigating%20Boston's%20Ride-Share%20Market%20In-Depth%20Insights%20into%20Lyft%20and%20Uber%20sample%20work.pptx)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
